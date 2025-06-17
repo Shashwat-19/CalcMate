@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Terminal-lightgrey)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet)
 
 **CalcMate** is a simple yet functional command-line calculator built with Python 3.  
 It supports basic arithmetic operations and allows continuous calculations using the previous result, providing a seamless terminal-based experience.
